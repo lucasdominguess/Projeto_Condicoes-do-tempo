@@ -1,0 +1,24 @@
+
+
+.text-perso { 
+    font-family: 'Kalam', cursive; 
+}
+
+.chuva { 
+background-image: url(../Backgroud/Nublado_edit.jpg)
+}
+.sol { 
+background-image: url(../Backgroud/noaa-xpOW8Pnla8M-unsplash-edit.jpg);
+}
+.gelo { 
+    background-image: url(../Backgroud/gelo_edit.jpg);
+}
+.temp_comum { 
+    background-image: url(../Backgroud/frio\ sem\ chuva-edit.jpg);
+
+}
+@media (min-width : 380px )and (max-width : 400px ) {
+    #container { 
+        height: 100vw;
+    }    
+}
