@@ -20,6 +20,6 @@ background-image: url(../Backgroud/noaa-xpOW8Pnla8M-unsplash-edit.jpg);
 @media (min-width : 380px )and (max-width : 400px ) {
     #container { 
         height: 100vw;
-        max-width: 362px;
+      
     }    
 }
